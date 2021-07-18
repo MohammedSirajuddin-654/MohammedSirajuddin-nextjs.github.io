@@ -15,7 +15,7 @@ export default () => (
                             <h3>About me</h3>
                             <p>I never give up until I get something right.</p>
                         </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
+                        <Link href="/Aboutme"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic02.jpg')`}}>
                         <header className="major">
